@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1{
+                color:red;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Web Cource</h1>
+        <p class="note"></p>
+        <p id="header"></p>
+
+    </body>
+</html>
+    
